@@ -1,7 +1,7 @@
 body {
     font-family: sans-serif;
     background-color: grey;
-    margin-top: 75px;
+    margin-top: 125px;
 }
 
 .center {
@@ -12,9 +12,9 @@ body {
     font-size: 300%;
 }
 
-.bold {
+/*.bold {
     font-weight: bold;
-}
+}*/
 
 .img-medium {
     height: 250px;
