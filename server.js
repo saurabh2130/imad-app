@@ -12,7 +12,7 @@ app.get('/', function (req, res) {
 app.get('/article1',function(req,res){
     res.send('Article 1 is requested');
 });
-app.get('/article1',function(req,res){
+app.get('/article2',function(req,res){
     res.send('Article 2 is requested');
 });
 app.get('/ui/style.css', function (req, res) {
