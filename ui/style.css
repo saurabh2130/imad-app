@@ -1,11 +1,11 @@
 body {
     font-family: sans-serif;
     background-color: grey;
-    margin-top: 125px;
+    margin-top: 120px;
 }
 
 .center {
-    text-align: left;
+    text-align: center;
 }
 
 .text-big {
