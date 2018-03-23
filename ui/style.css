@@ -12,11 +12,20 @@ body {
     font-size: 300%;
 }
 
-/*.bold {
+.bold {
     font-weight: bold;
-}*/
+}
 
 .img-medium {
     height: 250px;
 }
 
+.gg{
+            max-width: 800px;
+            margin: 0 auto;
+            color: #3b37c5;
+            font-family: arial;
+            padding-top: 150px;
+            padding-left: 75px;
+            padding-right: 75px;
+}        
