@@ -19,7 +19,10 @@ body {
 .img-medium {
     height: 250px;
 }
-
+.bg{
+    font-size:300%;
+    text-align:center;
+}
 .gg{
             max-width: 800px;
             margin: 0 auto;
