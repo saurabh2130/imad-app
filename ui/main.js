@@ -23,7 +23,8 @@ submit.onclick=function(){
    var list='';
    for(var i=0;i<name.length;i++){
        list +='<li>' + names[1] + '</li>';
-       var ul=document.getElementById('namelist');
-       ul.innerHTML=list;
+       
    }
+   var ul=document.getElementById('namelist');
+       ul.innerHTML=list;
 };
